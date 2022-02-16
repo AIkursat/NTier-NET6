@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rvCg2fzV1fUkaWpVfwFsiikuCWpLpaWEMTeUb3NG2jw=",
+  "Source": "NTier.API",
+  "BasePath": "_content/NTier.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

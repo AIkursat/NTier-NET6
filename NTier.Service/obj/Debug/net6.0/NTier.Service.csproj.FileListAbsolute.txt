@@ -1,0 +1,17 @@
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Service.deps.json
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Service.dll
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\ref\NTier.Service.dll
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Service.pdb
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Core.dll
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Repository.dll
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Repository.pdb
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\bin\Debug\net6.0\NTier.Core.pdb
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.csproj.AssemblyReference.cache
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.AssemblyInfoInputs.cache
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.AssemblyInfo.cs
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.csproj.CopyComplete
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.dll
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\ref\NTier.Service.dll
+C:\Users\aynur\source\repos\NTier-NET6\NTier.Service\obj\Debug\net6.0\NTier.Service.pdb

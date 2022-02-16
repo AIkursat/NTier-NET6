@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NTier.Service/1.0.0": {
+        "dependencies": {
+          "NTier.Repository": "1.0.0"
+        },
+        "runtime": {
+          "NTier.Service.dll": {}
+        }
+      },
+      "NTier.Core/1.0.0": {
+        "runtime": {
+          "NTier.Core.dll": {}
+        }
+      },
+      "NTier.Repository/1.0.0": {
+        "dependencies": {
+          "NTier.Core": "1.0.0"
+        },
+        "runtime": {
+          "NTier.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTier.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NTier.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NTier.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

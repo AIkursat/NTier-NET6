@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aynur\\source\\repos\\NTierApp\\NTier.Core\\NTier.Core.csproj": {}
+    "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aynur\\source\\repos\\NTierApp\\NTier.Core\\NTier.Core.csproj": {
+    "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\NTierApp\\NTier.Core\\NTier.Core.csproj",
+        "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
         "projectName": "NTier.Core",
-        "projectPath": "C:\\Users\\aynur\\source\\repos\\NTierApp\\NTier.Core\\NTier.Core.csproj",
+        "projectPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
         "packagesPath": "C:\\Users\\aynur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aynur\\source\\repos\\NTierApp\\NTier.Core\\obj\\",
+        "outputPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aynur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -56,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

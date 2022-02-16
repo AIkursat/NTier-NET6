@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VmX3gWdu35hl8Kzzixl1GCskuzZ8ZWA42vQSx8twKyl2QkHKVe101Zzw+z2sKKO+lnc4C0PgSb6pjxegLTBWA==",
+  "dgSpecHash": "kwIutUQKMs4B4oEVxv9SiI5ck3wrDYeycJlR0tO4iDFOlEDcfKeyHG6GRrU5HKQ05lUv/gS5FeS7DjcA+Z+9hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aynur\\source\\repos\\NTierApp\\NTier.Core\\NTier.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\aynur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\aynur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\aynur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\aynur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
