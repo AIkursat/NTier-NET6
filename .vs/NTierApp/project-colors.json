@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6831f58b-b89f-4dc1-ac96-449d90b131ea": {
+      "ProjectGuid": "6831f58b-b89f-4dc1-ac96-449d90b131ea",
+      "DisplayName": "NTier.Core",
+      "ColorIndex": 0
+    },
+    "45ea0110-edac-4aec-9517-8331ca5692a5": {
+      "ProjectGuid": "45ea0110-edac-4aec-9517-8331ca5692a5",
+      "DisplayName": "NTier.Core",
+      "ColorIndex": 1
+    },
+    "9f99f9f3-3223-4792-944d-16e9968c75e9": {
+      "ProjectGuid": "9f99f9f3-3223-4792-944d-16e9968c75e9",
+      "DisplayName": "NTier.Repository",
+      "ColorIndex": 2
+    },
+    "5d777648-b8d6-46d9-bc70-70e7d681cada": {
+      "ProjectGuid": "5d777648-b8d6-46d9-bc70-70e7d681cada",
+      "DisplayName": "NTier.Service",
+      "ColorIndex": 3
+    },
+    "b59f63a9-9d3c-4198-a4f8-1e24b5e03f21": {
+      "ProjectGuid": "b59f63a9-9d3c-4198-a4f8-1e24b5e03f21",
+      "DisplayName": "NTier.API",
+      "ColorIndex": 4
+    },
+    "53b085f0-9a56-4af6-9051-06b5b8f6ccee": {
+      "ProjectGuid": "53b085f0-9a56-4af6-9051-06b5b8f6ccee",
+      "DisplayName": "NTier.Caching",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

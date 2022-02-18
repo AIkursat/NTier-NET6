@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj": {}
+    "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj": {
+    "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
+        "projectUniqueName": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
         "projectName": "NTier.Core",
-        "projectPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
+        "projectPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Core\\NTier.Core.csproj",
         "packagesPath": "C:\\Users\\aynur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Core\\obj\\",
+        "outputPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aynur\\AppData\\Roaming\\NuGet\\NuGet.Config",

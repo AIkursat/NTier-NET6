@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj": {}
+    "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj": {
+    "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj",
+        "projectUniqueName": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj",
         "projectName": "NTier.Caching",
-        "projectPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj",
+        "projectPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Caching\\NTier.Caching.csproj",
         "packagesPath": "C:\\Users\\aynur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Caching\\obj\\",
+        "outputPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Caching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aynur\\AppData\\Roaming\\NuGet\\NuGet.Config",

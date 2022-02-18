@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Service\\NTier.Service.csproj",
+      "projectUniqueName": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Service\\NTier.Service.csproj",
       "projectName": "NTier.Service",
-      "projectPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Service\\NTier.Service.csproj",
+      "projectPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Service\\NTier.Service.csproj",
       "packagesPath": "C:\\Users\\aynur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Service\\obj\\",
+      "outputPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aynur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Repository\\NTier.Repository.csproj": {
-              "projectPath": "C:\\Users\\aynur\\source\\repos\\NTier-NET6\\NTier.Repository\\NTier.Repository.csproj"
+            "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Repository\\NTier.Repository.csproj": {
+              "projectPath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Repository\\NTier.Repository.csproj"
             }
           }
         }
