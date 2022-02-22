@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NTier.Core
+namespace NTier.Core.Services
 {
     public interface IService<T> where T : class
     {
@@ -19,5 +19,6 @@ namespace NTier.Core
         Task Update(T entity); // bcz it will reflect that changes to db that's why we changed that to async.
         Task Remove(T entity);
         Task RemoveRange(T entity);
+
     }
 }
