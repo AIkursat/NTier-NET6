@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NTier.Core",
+    "\\NTier.Core\\Repositories"
   ],
-  "SelectedNode": "\\NTierApp.sln",
+  "SelectedNode": "\\NTier.Core\\Repositories\\IGenericRepository.cs",
   "PreviewInSolutionExplorer": false
 }
