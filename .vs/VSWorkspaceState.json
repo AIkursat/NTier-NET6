@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\NTier.Core",
-    "\\NTier.Core\\Repositories"
+    "\\NTier.Core\\Repositories",
+    "\\NTier.Repository",
+    "\\NTier.Repository\\Configurations"
   ],
-  "SelectedNode": "\\NTier.Core\\Repositories\\IGenericRepository.cs",
+  "SelectedNode": "\\NTier.Repository\\Configurations\\ProductConfiguration.cs",
   "PreviewInSolutionExplorer": false
 }
