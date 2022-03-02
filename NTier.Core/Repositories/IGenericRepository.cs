@@ -11,7 +11,7 @@ namespace NTier.Core.Repositories
     {
         // Task is always Async
         Task<T> GetByIdAsync(int id);
-        Task<IEnumerable<T>> GetAllAsync();
+        IQueryable<T> GetAll();
         // Expressions point the delegations.
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
         Task<bool> AnyAsync(Expression<Func<T, bool>> expression);

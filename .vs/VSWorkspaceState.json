@@ -6,6 +6,6 @@
     "\\NTier.Repository",
     "\\NTier.Repository\\Configurations"
   ],
-  "SelectedNode": "\\NTier.Repository\\Configurations\\ProductConfiguration.cs",
+  "SelectedNode": "\\NTier.Repository\\AppDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
