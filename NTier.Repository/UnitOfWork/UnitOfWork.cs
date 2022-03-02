@@ -9,14 +9,21 @@ namespace NTier.Repository.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork
     {
-        public void Commit()
+        private readonly AppDbContext _context;
+
+        public UnitOfWork(AppDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public Task CommitAsync()
+        public void Commit()
         {
-            throw new NotImplementedException();
+            _context.SaveChanges();
+        }
+
+        public async Task CommitAsync()
+        {
+            await _context.SaveChangesAsync();
         }
     }
 }
