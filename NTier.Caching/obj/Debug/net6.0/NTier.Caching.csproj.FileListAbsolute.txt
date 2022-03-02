@@ -1,0 +1,12 @@
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\bin\Debug\net6.0\NTier.Caching.deps.json
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\bin\Debug\net6.0\NTier.Caching.dll
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\bin\Debug\net6.0\ref\NTier.Caching.dll
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\bin\Debug\net6.0\NTier.Caching.pdb
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.csproj.AssemblyReference.cache
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.AssemblyInfoInputs.cache
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.AssemblyInfo.cs
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.dll
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\ref\NTier.Caching.dll
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Caching\obj\Debug\net6.0\NTier.Caching.pdb

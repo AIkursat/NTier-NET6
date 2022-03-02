@@ -47,10 +47,9 @@ namespace NTier.Repository.Repositories
         {
             _dbSet.Remove(entity);
         }
-
-        public void RemoveRange(IEnumerable<T> entities)
+        public void RemoveRange(T entity)
         {
-            _dbSet.RemoveRange(entities);
+            // Crate it later
         }
 
         public void Update(T entity)

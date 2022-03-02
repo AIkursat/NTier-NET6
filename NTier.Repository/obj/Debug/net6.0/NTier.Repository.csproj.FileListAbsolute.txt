@@ -13,3 +13,5 @@ C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Repository\obj\Debug\net6.0\NTier.R
 C:\Users\aynur\source\repos\NTier-NET6\NTier.Repository\obj\Debug\net6.0\NTier.Repository.dll
 C:\Users\aynur\source\repos\NTier-NET6\NTier.Repository\obj\Debug\net6.0\ref\NTier.Repository.dll
 C:\Users\aynur\source\repos\NTier-NET6\NTier.Repository\obj\Debug\net6.0\NTier.Repository.pdb
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Repository\bin\Debug\net6.0\NTier.Repository.runtimeconfig.json
+C:\Users\aynur\Source\Repos\NTier-NET6\NTier.Repository\obj\Debug\net6.0\NTier.Repository.genruntimeconfig.cache
