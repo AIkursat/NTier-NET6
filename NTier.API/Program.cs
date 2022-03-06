@@ -1,9 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using NTier.Core.Repositories;
+using NTier.Core.Services;
 using NTier.Core.UnitOfWorks;
 using NTier.Repository;
 using NTier.Repository.Repositories;
 using NTier.Repository.UnitOfWork;
+using NTier.Service.Mapping;
+using NTier.Service.Services;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,9 +18,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
+builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+
 
 builder.Services.AddDbContext<AppDbContext>(x =>
 {

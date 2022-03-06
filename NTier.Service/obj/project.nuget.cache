@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZHoOiviZYZRBf2ENNB1P3m8O8g+kjahGa7qyWVVjuXtZsi7YQW2ENHX0Jq6gOkCizFJ4Kx/zozkxHKyAAINsXA==",
+  "dgSpecHash": "REFnIV2PVU6doUsXpe3fqLxJx6crvSpIyH7LVbi3tt9bzHJ3CIaNG644CTbpREby45OiP50JUNfXIApJXdm5Vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\aynur\\Source\\Repos\\NTier-NET6\\NTier.Service\\NTier.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\aynur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

@@ -20,6 +20,9 @@ namespace NTier.Service.Services
             _repository = repository;
             _unitOfWork = unitOfWork;
         }
+
+
+
         public async Task<T> AddAsync(T entity)
         {
             await _repository.AddAsync(entity);
@@ -49,19 +52,19 @@ namespace NTier.Service.Services
             return await _repository.GetByIdAsync(id);
         }
 
-        public async Task Remove(T entity)
+        public async Task RemoveAsync(T entity)
         {
             _repository.Remove(entity);
             await _unitOfWork.CommitAsync();
         }
 
-        public async Task RemoveRange(IEnumerable<T> entities)
+        public async Task RemoveRangeAsync(IEnumerable<T> entities)
         {
             _repository.RemoveRange(entities);
             await _unitOfWork.CommitAsync();
         }
 
-        public async Task Update(T entity)
+        public async Task UpdateAsync(T entity)
         {
             _repository.Update(entity);
             await _unitOfWork.CommitAsync();
