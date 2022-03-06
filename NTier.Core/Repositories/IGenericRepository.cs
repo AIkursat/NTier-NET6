@@ -20,6 +20,6 @@ namespace NTier.Core.Repositories
         void Update(T entity);
         void Remove(T entity);
         void RemoveRange(T entity);
-
+        void RemoveRange<T>(IEnumerable<T> entities) where T : class;
     }
 }

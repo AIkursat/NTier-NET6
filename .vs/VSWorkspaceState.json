@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\NTier.API",
     "\\NTier.Core",
     "\\NTier.Core\\Repositories",
     "\\NTier.Repository",
-    "\\NTier.Repository\\Configurations"
+    "\\NTier.Repository\\Configurations",
+    "\\NTier.Repository\\Repositories",
+    "\\NTier.Service",
+    "\\NTier.Service\\Services"
   ],
-  "SelectedNode": "\\NTier.Repository\\AppDbContext.cs",
+  "SelectedNode": "\\NTier.Service\\Services\\Service.cs",
   "PreviewInSolutionExplorer": false
 }
