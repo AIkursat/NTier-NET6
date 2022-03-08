@@ -10,6 +10,6 @@
     "\\NTier.Service",
     "\\NTier.Service\\Services"
   ],
-  "SelectedNode": "\\NTier.Service\\Services\\Service.cs",
+  "SelectedNode": "\\NTier.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
